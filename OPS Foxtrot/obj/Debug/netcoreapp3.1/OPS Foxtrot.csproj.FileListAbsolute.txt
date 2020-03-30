@@ -1,0 +1,35 @@
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\bin\Debug\netcoreapp3.1\OPS Foxtrot.exe
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\bin\Debug\netcoreapp3.1\OPS Foxtrot.deps.json
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\bin\Debug\netcoreapp3.1\OPS Foxtrot.runtimeconfig.json
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\bin\Debug\netcoreapp3.1\OPS Foxtrot.runtimeconfig.dev.json
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\bin\Debug\netcoreapp3.1\OPS Foxtrot.dll
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\bin\Debug\netcoreapp3.1\OPS Foxtrot.pdb
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\bin\Debug\netcoreapp3.1\OPS Foxtrot.Views.dll
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\bin\Debug\netcoreapp3.1\OPS Foxtrot.Views.pdb
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.csprojAssemblyReference.cache
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\staticwebassets\OPS Foxtrot.StaticWebAssets.Manifest.cache
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\staticwebassets\OPS Foxtrot.StaticWebAssets.xml
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.RazorAssemblyInfo.cache
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.RazorAssemblyInfo.cs
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.AssemblyInfoInputs.cache
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.AssemblyInfo.cs
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.TagHelpers.input.cache
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.TagHelpers.output.cache
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.RazorCoreGenerate.cache
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.RazorTargetAssemblyInfo.cache
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.RazorTargetAssemblyInfo.cs
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.Views.pdb
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.dll
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.pdb
+C:\Users\weaks\Desktop\OPS Foxtrot\OPS Foxtrot\obj\Debug\netcoreapp3.1\OPS Foxtrot.csproj.CopyComplete
